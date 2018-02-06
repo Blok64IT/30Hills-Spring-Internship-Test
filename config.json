@@ -1,0 +1,8 @@
+{
+	"database": "mysql",
+	"host": "127.0.0.1",
+	"DBname": "30hillsp",
+	"user": "root",
+	"password": "",
+	"port": 3306
+}

@@ -1,0 +1,197 @@
+body,
+html {
+	margin: 0;
+	padding: 0;
+	font-size: 16px;
+	font-family: Tahoma, Arial, sans-serif;
+	font-size: 16px;
+}
+
+#users
+{
+	display: block;
+	width: 1000px;
+	background-color: #fff;
+	padding: 0;
+	margin: 10px auto 0 auto;
+}
+
+.user {
+	width: 100%;
+	padding: 0;
+	margin: 0 0 10px 0;
+	overflow: hidden;
+}
+
+.user a {
+	display: block;
+	font-size: 1.1em;
+	color: #0B213D;
+	width: 100%;
+	height: 100%;
+	background-color: #8DCFE8;
+	padding: 10px 20px;
+	text-decoration: none;
+}
+
+.user a:hover {
+	background-color: #4EC6DE;
+}
+
+.user span {
+	display: block;
+	color: #133A6E;
+	font-size: .85em;
+	margin-top: 5px;
+}
+
+#user {
+	display: block;
+	width: 1000px;
+	background-color: #fff;
+	padding: 0;
+	margin: 10px auto 0 auto;
+}
+
+.user-info {
+	display: block;
+	width: 100%;
+	padding: 0;
+	margin: 0 0 10px 0;
+	overflow: hidden;
+}
+
+.user-info p {
+	display: block;
+	font-size: 1.1em;
+	color: #0B213D;
+	width: 100%;
+	height: 100%;
+	background-color: #8DCFE8;
+	padding: 10px 20px;
+	text-decoration: none;
+	margin: 0;
+}
+
+.user-info span {
+	display: block;
+	color: #133A6E;
+	font-size: .85em;
+	margin-top: 5px;
+}
+
+.user-friends-header {
+	display: block;
+	width: 100%;
+	border-bottom: 1px solid #c3c3c3;
+	padding: 0;
+	margin: 0 0 10px 0;
+	overflow: hidden;
+	text-align: center;
+}
+
+#user-friends-header p {
+	font-size: 1.15em;
+	font-weight: 500;
+}
+
+.user-friends {
+	display: block;
+	width: 100%;
+	padding: 0;
+	margin: 0 0 10px 0;
+	overflow: hidden;
+	text-align: center;
+}
+
+.user-friend {
+	width: 100%;
+	padding: 0;
+	margin: 0 0 10px 0;
+	overflow: hidden;
+}
+
+.user-friend a {
+	display: block;
+	font-size: 1.1em;
+	color: #0B213D;
+	width: 100%;
+	height: 100%;
+	background-color: #7dce94;
+	padding: 10px 0px;
+	text-decoration: none;
+}
+
+.user-friend a:hover {
+	background-color: #6BB07E;
+}
+
+.user-info-friend {
+	display: block;
+	width: 1200px;
+	background-color: #fff;
+	padding: 0;
+	margin: 10px auto 0 auto;
+}
+
+#user-left {
+	display: block;
+	width: 800px;
+	background-color: #fff;
+	padding: 0;
+	margin: 0;
+	float: left;
+}
+
+#user-right {
+	width: 380px;
+	margin-left: 20px;
+	float: left;
+}
+
+.u-fof a {
+	display: block;
+	font-size: 1.1em;
+	color: #0B213D;
+	width: 100%;
+	height: 100%;
+	background-color: #FFF056;
+	text-decoration: none;
+	text-align: center;
+}
+
+.u-fof a:hover {
+	background-color: #F2E452;
+}
+
+#all-users {
+	display: block;
+	position: absolute;
+	left: 0;
+	top: 0;
+	margin: 0;
+	padding: 0;
+}
+
+#all-users a {
+	display: block;
+	padding: 10px 20px;
+	text-decoration: none;
+	background-color: orange;
+	color: #0B213D;
+}
+
+#error-404 {
+	display: block;
+	width: 1000px;
+	background-color: #fff;
+	padding: 0;
+	margin: 10px auto 0 auto;
+}
+
+#error-404 p {
+	padding: 0;
+	margin: 0;
+}
+
+
